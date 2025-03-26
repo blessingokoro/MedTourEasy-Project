@@ -1,4 +1,5 @@
 ABOUT THE PROJECT 
+
 This project aims at exploring this phenomenon using age distribution data to see if 
 we can reproduce a difference in average age at death purely from the changing rates 
 of left-handedness over time, refuting the claim of early death for left-handers and 
@@ -7,10 +8,12 @@ handed people.
 It uses pandas and Bayesian statistics to analyze the probability of being a certain age 
 at death given that you are reported as left-handed or right-handed. 
 
-AIM 
+AIM
+
 To analyze the death age difference between right handers and left handers. 
 
-OBJECTIVES  
+OBJECTIVES 
+
 To achieve the above set goal, the following objective will be considered: 
 1. Studying death distribution data in United States from the year 1999 and rates 
 of left handedness. 
