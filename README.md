@@ -21,6 +21,9 @@ of left handedness.
 using Bayes’ rule. 
 3. Getting the overall probability of lefthandedness. 
 4. Using Bayes' rule to get P(A | LH), the probability of being age A at death (in 
-the study year) given that you're left-handed. 
-5. Comparing the results with the original study that found that left-handed 
+the study year) given that you're left-handed.
+
+CONCLUSION
+
+Comparing the results with the original study that found that left-handed 
 people were nine years younger at death on average.
